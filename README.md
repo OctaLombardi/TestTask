@@ -2,6 +2,8 @@
 
 # Alpha Efficiency - Octavio Lombardi 
 
+# Live Preview
+
 Task Description: 
 Your task is to create a responsive burger menu with listed items in the navigation, as well as a countdown feature.
 Additionally, you need to incorporate a drop-down menu for Frequently Asked Questions (FAQs) with placeholder text (such as lorem ipsum). The task should be developed using HTML, CSS, and JavaScript.
